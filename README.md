@@ -36,7 +36,7 @@ I love building scalable applications, exploring new technologies, and contribut
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ekhosuehip&theme=dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
 
 ---
