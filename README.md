@@ -28,13 +28,6 @@ I love building scalable applications, exploring new technologies, and contribut
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ekhosuehip&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-
----
-
 ## 📫 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
