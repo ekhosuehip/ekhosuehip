@@ -1,44 +1,80 @@
-# Hi there, I'm Promise 👋
+<h1 align="center">👋 Hi there! I'm Promise Ekhosuehi</h1>
 
-💻 **Software Engineer | Full-Stack Developer | Tech Enthusiast**  
-
-I love building scalable applications, exploring new technologies, and contributing to open-source projects. Passionate about clean code, best practices, and problem-solving.  
-
----
-
-## 🚀 About Me  
-- 🎓 Software Engineering Student  
-- 🔭 Currently working on my **portfolio projects**  
-- 🌱 Learning **TypeScript, Next.js, and Cloud Computing**  
-- 💬 Ask me about **JavaScript, Python, React, Node.js, MongoDB, and APIs**  
-- 📫 Reach me at **ekhosuehipromise8@gmail.com**  
+<p align="center">
+I'm a passionate software engineering student with a strong interest in building robust, scalable, and efficient APIs using TypeScript, Node.js, and MongoDB. I love solving problems, optimizing backend performance, and ensuring smooth operations in my applications.
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-
-## 📫 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+### 🚀 Tech Stack
+- 🖥️ **Languages:** TypeScript, JavaScript, Python, C++, SQL
+- ⚡️ **Frameworks & Tools:** Node.js, Express.js, MongoDB, MySQL, PostgreSQL
+- 📝 **Other Technologies:** Git, Postman, Docker, AWS Lambda, RESTful APIs
 
 ---
 
-⭐️ **Fun Fact:** "I can turn coffee into code!" ☕😄  
+### 🎯 About Me
+- 📚 I'm currently developing a **Note-Taking API** with authentication, authorization, and user-specific note management.
+- 🌱 I'm learning cloud technologies and improving my knowledge of Docker and AWS services.
+- 🤝 I'm looking to collaborate on **TypeScript and Express API projects.**
+- 🎨 I'm exploring frontend technologies to improve my full-stack development skills.
 
-<!---
-ekhosuehip/ekhosuehip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekhosuehip&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Open to Collaborations
+- 💡 I'm open to contributing to open-source projects and working on innovative ideas.
+- ✨ Interested in projects involving **backend APIs, database management, and cloud deployment.**
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/promiseekhosuehi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@ekhosuehip" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium" alt="Medium" />
+  </a>
+  <a href="mailto:promiseekhosuehi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🎮 Fun Fact
+- 🎧 I love listening to music and enjoy playing video games in my free time.
+
+---
+
+### 📚 Recent Projects
+- ✅ **[Note-Taking API](https://github.com/ekhosuehip/note-taking-api)** - A RESTful API for managing notes with categories, user authentication, and request validation.
+- 📝 **[Quiz App](https://github.com/ekhosuehip/quiz-app)** - A simple quiz application built with JavaScript, HTML, and CSS.
+
+---
+
+### 🏆 Achievements
+- 🌟 Published several articles on Medium to help beginners learn TypeScript and Node.js.
+- 💡 Continuously contributing to my GitHub repositories and improving my coding skills.
+
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekhosuehip&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekhosuehip&theme=radical" alt="GitHub Streak" />
+</p>
+
