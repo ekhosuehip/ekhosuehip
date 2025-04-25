@@ -42,9 +42,9 @@ I'm a passionate software engineering student with a strong interest in building
   <a href="https://medium.com/@ekhosuehipromise8" target="_blank">
   <img src="https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium" alt="Medium" />
 </a>
-  <a href="mailto:promiseekhosuehi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
-  </a>
+  <a href="mailto:ekhosuehipomise8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
+</a>
 </p>
 
 ---
