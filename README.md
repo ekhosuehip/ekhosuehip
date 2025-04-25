@@ -39,9 +39,9 @@ I'm a passionate software engineering student with a strong interest in building
 <a href="https://www.linkedin.com/in/promise-ekhosuehi-9637a12a7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
-  <a href="https://medium.com/@ekhosuehip" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium" alt="Medium" />
-  </a>
+  <a href="https://medium.com/@ekhosuehipromise8" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium" alt="Medium" />
+</a>
   <a href="mailto:promiseekhosuehi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
   </a>
