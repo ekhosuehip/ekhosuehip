@@ -36,9 +36,9 @@ I'm a passionate software engineering student with a strong interest in building
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="[[https://www.linkedin.com/in/promiseekhosuehi](https://www.linkedin.com/in/promise-ekhosuehi-9637a12a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/promise-ekhosuehi-9637a12a7)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/promise-ekhosuehi-9637a12a7" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+</a>
   <a href="https://medium.com/@ekhosuehip" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium" alt="Medium" />
   </a>
